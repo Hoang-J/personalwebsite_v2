@@ -1,0 +1,37 @@
+body {
+  background-color: #BFD8B8;
+}
+
+h1 {
+  color: #FEF5ED;
+  background-color: #C8DBBE;
+}
+
+h3 {
+  color: #FEF5ED;
+  background-color: #C8DBBE;
+}
+
+p {
+  color:#FEF5ED;
+}
+
+li {
+  color:#FEF5ED;
+}
+
+td {
+  color:#FEF5ED;
+}
+
+th {
+  color: #809A6F;
+}
+
+hr {
+  color: #FEF5ED;
+  border-style: none;
+  border-top-style: dotted;
+  border-top-width: 5px;
+  width: 2.5%;
+}
